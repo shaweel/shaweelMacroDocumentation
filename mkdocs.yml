@@ -1,0 +1,19 @@
+site_name: shaweelMacro
+site_url: https://shaweelmacro.readthedocs.io
+
+theme:
+  name: material
+  palette:
+    - media: "(prefers-color-scheme: light)"
+      scheme: default
+      toggle:
+        icon: material/brightness-7
+        name: Switch to dark mode
+    - media: "(prefers-color-scheme: dark)"
+      scheme: slate
+      toggle:
+        icon: material/brightness-4
+        name: Switch to light mode
+
+nav:
+  - Home: index.md
