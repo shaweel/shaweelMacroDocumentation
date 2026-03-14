@@ -28,6 +28,3 @@ nav:
     - Overview: installation/index.md
     - GNU+Linux: installation/linux.md
     - Windows: installation/windows.md
-    
-extra_css:
-  - extra.css
