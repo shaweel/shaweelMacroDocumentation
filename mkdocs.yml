@@ -3,8 +3,6 @@ site_url: https://shaweelmacro.readthedocs.io
 
 theme:
   name: material
-  features:
-   - navigation.cards
   palette:
     - media: "(prefers-color-scheme: light)"
       scheme: default
@@ -17,9 +15,13 @@ theme:
         icon: material/brightness-4
         name: Switch to light mode
 
+markdown_extensions:
+  - attr_list
+  - md_in_html
+
 nav:
   - Home: index.md
   - Installation:
-    - General: installation/index.md
+    - Overview: installation/index.md
     - GNU+Linux: installation/linux.md
     - Windows: installation/windows.md
