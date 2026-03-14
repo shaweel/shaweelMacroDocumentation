@@ -3,6 +3,8 @@ site_url: https://shaweelmacro.readthedocs.io
 
 theme:
   name: material
+  features:
+   - navigation.cards
   palette:
     - media: "(prefers-color-scheme: light)"
       scheme: default
@@ -17,6 +19,7 @@ theme:
 
 nav:
   - Home: index.md
-  - Installation: installation/index.md
+  - Installation:
+    - General: installation/index.md
     - GNU+Linux: installation/linux.md
     - Windows: installation/windows.md
