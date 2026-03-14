@@ -17,3 +17,6 @@ theme:
 
 nav:
   - Home: index.md
+  - Installation: installation/index.md
+    - GNU+Linux: installation/linux.md
+    - Windows: installation/windows.md
