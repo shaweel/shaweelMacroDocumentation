@@ -2,7 +2,7 @@ site_name: shaweelMacro
 site_url: https://shaweelmacro.readthedocs.io
 
 theme:
-  name: material
+name: material
   palette:
     - media: "(prefers-color-scheme: light)"
       scheme: default
@@ -16,15 +16,18 @@ theme:
         name: Switch to light mode
 
 markdown_extensions:
-  - attr_list
-  - md_in_html
-  - pymdownx.emoji:
-      emoji_index: !!python/name:material.extensions.emoji.twemoji
-      emoji_generator: !!python/name:material.extensions.emoji.to_svg
-
+- attr_list
+- md_in_html
+- pymdownx.emoji:
+  emoji_index: !!python/name:material.extensions.emoji.twemoji
+  emoji_generator: !!python/name:material.extensions.emoji.to_svg
+  
 nav:
   - Home: index.md
   - Installation:
     - Overview: installation/index.md
     - GNU+Linux: installation/linux.md
     - Windows: installation/windows.md
+    
+extra_css:
+  - extra.css
