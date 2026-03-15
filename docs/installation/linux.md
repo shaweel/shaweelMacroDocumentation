@@ -1,5 +1,5 @@
 # Installation on GNU+Linux
-There are multiple ways to install shaweelMacro on [GNU+Linux](https://kernel.org). Ranging from distro-specific to completely universal.
+There are multiple ways to install shaweelMacro on [GNU](https://gnu.org/home.en.html)+[Linux](https://kernel.org). Ranging from distro-specific to completely universal.
 
 Navigation:  
 [Jump to Debian](#debian)  
