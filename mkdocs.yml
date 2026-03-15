@@ -31,3 +31,5 @@ nav:
       - Overview: installation/index.md
       - GNU+Linux: installation/linux.md
       - Windows: installation/windows.md
+  - Post-install setup:
+      - Environment Type: postInstall/environment.md
