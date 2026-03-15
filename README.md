@@ -1,1 +1,1 @@
-Documentation: https://shaweelmacro.readthedocs.org
+Documentation: https://shaweelmacro.readthedocs.io
