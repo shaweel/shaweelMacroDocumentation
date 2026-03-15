@@ -19,8 +19,8 @@ For [Arch Linux](https://archlinux.org) and its [derivatives](https://wiki.archl
 To install shaweelMacro, install the `shaweelMacro` package either with an [AUR helper](https://wiki.archlinux.org/title/AUR_helpers) like `yay` or `paru`  
 `yay -S shaweelMacro` or  `paru -S shaweelMacro`  
 or manually installing the package using `git` and `makepkg`  
-`git clone https://aur.archlinux.org/shaweelMacro.git`
-`cd shaweelMacro`
+`git clone https://aur.archlinux.org/shaweelMacro.git`  
+`cd shaweelMacro`  
 `makepkg -si`
 
 ## Flatpak
