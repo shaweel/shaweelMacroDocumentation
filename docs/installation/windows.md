@@ -6,7 +6,7 @@ To install shaweelMacro on [Windows](https://windows.com), you will need [Window
 There are two ways to install shaweelMacro on [Windows](https://windows.com)—the [setup wizard](#setup-wizard) and a [.jar file](#jar-file).
 
 ## Setup wizard
-To install shaweelMacro using the [setup wizard](https://en.wikipedia.org/wiki/Wizard_(software)). download a .exe [setup wizard](https://en.wikipedia.org/wiki/Wizard_(software)) from the [latest release](https://github.com/shaweel/shaweelMacro/releases/latest), run it and follow it's instructions.
+To install shaweelMacro using the [setup wizard](https://en.wikipedia.org/wiki/Wizard_(software)). download a .exe [setup wizard](https://en.wikipedia.org/wiki/Wizard_(software)) from the [latest release](https://github.com/shaweel/shaweelMacro/releases/latest), run it and follow its instructions.
 
 ## .jar file
 You can also choose the universal option, which will run on anything which runs [Java](https://www.java.com/)
