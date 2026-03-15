@@ -21,7 +21,7 @@ To install shaweelMacro, install the `shaweelMacro` package either with an [AUR 
 or manually installing the package using `git` and `makepkg`  
 `git clone https://aur.archlinux.org/shaweelMacro.git`  
 `cd shaweelMacro`  
-`makepkg -si`
+`makepkg -si`
 
 ## Flatpak
 shaweelMacro can also be installed using `flatpak` on any distribution supporting it. This is generally not recommended if your distribution already has a native way of installing shaweelMacro
