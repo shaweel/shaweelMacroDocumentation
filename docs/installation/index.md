@@ -1,7 +1,5 @@
 # Installation
-The installation of shaweelMacro varies based on your operating system.
+The installation of shaweelMacro varies based on your operating system. shaweelMacro currently only supports [Windows](https://windows.com) and [GNU+Linux](https://kernel.org).
 
-shaweelMacro currently only supports Windows and Linux.
-
-[:fontawesome-brands-windows: Windows](windows.md)  
-[:fontawesome-brands-linux: GNU+Linux](linux.md)
+[:fontawesome-brands-windows: GNU+Linux](linux.md)  
+[:fontawesome-brands-linux: Windows](windows.md)
