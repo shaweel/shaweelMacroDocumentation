@@ -35,4 +35,4 @@ You can also choose the universal option, which will run on anything which runs 
 
 To run shaweelMacro using the .jar file, you will first have to ensure you have the Java 25 JRE or JDK installed. I recommend using [Adoptium Temurin JRE](https://adoptium.net/temurin/releases).
 
-After making sure you have the Java 25 JRE or JDK installed, you can download a .jar file from the [latest release](https://github.com/shaweel/shaweelMacro/releases/latest) and simply run it with `java -jar ./shaweelMacro.jar` or on some [Desktop Environments](https://en.wikipedia.org/wiki/Desktop_environment) just opening the file.
+After making sure you have the Java 25 JRE or JDK installed, you can download a .jar file from the [latest release](https://github.com/shaweel/shaweelMacro/releases/latest) and simply run it with `java -jar ./shaweelMacro.jar` or on some [Desktop Environments](https://wiki.archlinux.org/title/Desktop_environment) just opening the file.
